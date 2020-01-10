@@ -18,4 +18,4 @@ class Config(object):
     ADMINS = ['wallacelim97@gmail.com']
 
     #USER INTERFACE CONFIGURATIONS
-    POSTS_PER_PAGE = 3
+    POSTS_PER_PAGE = 25
