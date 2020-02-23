@@ -1,4 +1,5 @@
-flask-mail
+flask
+python-dotenv
 flask-wtf
 flask-sqlalchemy
 flask-migrate
@@ -6,3 +7,4 @@ flask-login
 flask-mail
 flask-bootstrap
 pyjwt
+flask-mail
