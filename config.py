@@ -19,3 +19,6 @@ class Config(object):
 
     #USER INTERFACE CONFIGURATIONS
     POSTS_PER_PAGE = 25
+
+    # I18N / L10N CONFIGURATIONS
+    LANGUAGES = ['en-US', 'en-GB', 'zh']
